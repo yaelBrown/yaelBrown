@@ -3,7 +3,9 @@
 ✈️ BAL => JAX => SATX 🚚\
 🍋 Entusiasta de la limonada y ensalada. 🥗\
 
-Please hold... \
-Currently finishing Computer Science Degree....
+UMGC BS Computer Science, 2020\
+
+Please hold... Waiting on responses for Graduate School...\
+MS CS\
 
 🐍 Python, 🐍 Python, 🐍 Python
