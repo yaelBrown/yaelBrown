@@ -5,7 +5,7 @@
 
 UMGC BS Computer Science, 2020\
 
-Please hold... Waiting on responses for Graduate School...\
-MS CS\
+Please hold... Waiting on responses for Graduate School...
+MS CS
 
 🐍 Python, 🐍 Python, 🐍 Python
