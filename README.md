@@ -1,6 +1,11 @@
 <div align="center">
 <img src="https://yaelbrown.github.io/img/ybLogo.svg" width="20%" height="20%"></br>
-Yael Brown</br>
+
+# Yael Brown</br>
+
+[LinkedIn](https://www.linkedin.com/in/yaelrbrown/) <br>
+[yaelBrown.github.io](https://yaelbrown.github.io/) <br>
+
 ⚓️ USN to Software Engineer 💻</br>
 📓 UMUC BS Comp Sci. 📓</br>
 ✈️ BAL => JAX => SATX 🚚</br>
