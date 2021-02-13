@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://yaelbrown.github.io/img/ybLogo.svg" width="20%" height="20%"></br>
 
 # Yael Brown</br>
 
@@ -25,4 +24,5 @@ Starting MSCS Fall 2021
 
 ![Profile views](https://komarev.com/ghpvc/?username=yaelBrown&label=Profile%20views&color=0e75b6&style=flat)
 
+<img src="https://yaelbrown.github.io/img/ybLogo.svg" width="20%" height="20%"></br>
 </div>
