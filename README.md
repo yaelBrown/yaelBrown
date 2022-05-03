@@ -1,8 +1,8 @@
 <div align="center">
 
 # Hi 👋 My name is Yael Brown
-I am a Senior Software Engineer
-🌍  I'm based in San Antonio
+I am a Senior Software Engineer<br>
+🌍  I'm based in San Antonio<br>
 
 [LinkedIn](https://www.linkedin.com/in/yaelrbrown/) <br>
 [yaelBrown.github.io](https://yaelbrown.github.io/) <br>
