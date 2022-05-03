@@ -1,6 +1,12 @@
 <div align="center">
 
-# Yael Brown</br>
+Hi 👋 My name is Yael
+=====================
+
+Senior Software Engineer
+------------------------
+
+*   🌍  I'm based in San Antonio
 
 [LinkedIn](https://www.linkedin.com/in/yaelrbrown/) <br>
 [yaelBrown.github.io](https://yaelbrown.github.io/) <br>
