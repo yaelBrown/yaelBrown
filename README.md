@@ -19,9 +19,6 @@ Starting MSCS Fall 2021
 
 🐍 Python, 🐍 Python, 🐍 Python
 
-
-![Yael Brown's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaelBrown)</br>
-<!-- ![Yael Brown's most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=yaelBrown&show_icons=true&locale=en&layout=compact) -->
 ![Yael Brown's Streak](https://github-readme-streak-stats.herokuapp.com/?user=biancareusch)</br>
 
 ![Profile views](https://komarev.com/ghpvc/?username=yaelBrown&label=Profile%20views&color=0e75b6&style=flat)
