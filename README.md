@@ -15,7 +15,7 @@ I am a Senior Software Engineer<br>
 UMGC BS Computer Science, 2020 \
 Codeup Full-Stack Developer Certificate, 2019
 
-Starting MSCS Fall 2021
+MSwE '24
 
 🐍 Python, 🐍 Python, 🐍 Python
 
